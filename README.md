@@ -10,6 +10,7 @@ What did you do particularly well?
 I think I did particularly well in clearly organizing the system requirements and creating UML diagrams that matched the client’s needs. I focused on making sure the diagrams were logical, easy to follow, and aligned with how the system would actually function. I also made sure the technical and security requirements were realistic and detailed.
 
 If you could choose one part of your work on these documents to revise, what would you pick? How would you improve it?
+
 If I could revise one part, I would improve the UML diagrams by making them slightly more detailed and visually clearer. I would refine the layout and add clearer labels to relationships or processes so they are easier to understand at a glance. This would make the design even more readable for developers and stakeholders reviewing the document.
 
 How did you interpret the user’s needs and implement them into your system design? Why is it so important to consider the user’s needs when designing?
